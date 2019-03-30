@@ -1,5 +1,6 @@
 # Data and Resources from Understanding Faculty Compensation Workshop
 [IPEDS Data Center](https://nces.ed.gov/ipeds/use-the-data)
+[AAUP Faculty Compensation Survey](https://www.aaup.org/our-work/research/FCS)
 
 # Cost of Living Tools
 [Estimates of Median Rents from HUD](https://www.huduser.gov/portal/datasets/50per.html)
