@@ -7,7 +7,7 @@
 2. [Regional Price Parities](https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area)
 
 
-3. [The presentation slides are here](https://github.com/jroy042/uiuc2019compsenation/blob/master/salaryworkshop.pdf)
+3. [The presentation slides are here](https://github.com/jroy042/asee2019sal/blob/master/salary%20workshop.pdf)
 
 4. [Smart Assets Take Home Pay Estimator](https://smartasset.com/taxes/paycheck-calculator)
 
